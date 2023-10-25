@@ -2,9 +2,11 @@
 Re-design divd.club
 
 Eisen:
-Responsive
-Hamburger menu
+- Responsive
+- Hamburger menu
 
 
-start: week 23 oktober, woensdag
-streef 3 weken
+start: 
+- week 23 oktober, woensdag
+streef
+- 3 weken
